@@ -1,0 +1,15 @@
+{
+  "name": "ai-chatbot-20260204",
+  "version": "1.0.0",
+  "description": "AI-powered chatbot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "ai",
+    "bot"
+  ],
+  "author": "Ross AI",
+  "license": "MIT"
+}
